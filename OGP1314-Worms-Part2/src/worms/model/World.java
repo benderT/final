@@ -41,8 +41,7 @@ public World(double width, double height,boolean[][] passableMap, Random random)
 	CollectionWorms= new ArrayList<Worm>();
 	foods = new ArrayList<Food>();
 	projectiles = new ArrayList<Projectile>();
-	team= new ArrayList<Team>();
-	//this.Objects = new HashSet<WorldObject>();	
+	team= new ArrayList<Team>();	
 }	
 
 
